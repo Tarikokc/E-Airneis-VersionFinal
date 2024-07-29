@@ -1,0 +1,12 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Tarikokc/E-Airneis.git
+	branch = main
+[submodule "Frontent"]
+	path = Frontent
+	url = https://github.com/Tarikokc/E-Airneis-ReactV1.git
+	branch = main
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/Tarikokc/E-AirneisMobile.git
+	branch = main
