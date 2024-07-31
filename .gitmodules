@@ -1,12 +1,12 @@
-[submodule "Frontend-E-Airneis"]
-	path = Frontend
-	url = https://github.com/Tarikokc/E-Airneis-ReactV1.git
-	branch = main
 [submodule "Mobile-E-AirneisFinal"]
 	path = Mobile
 	url = https://github.com/romiokaa/E-Airneis-Mobile.git
 	branch = main
-[submodule "Backend-E-AirneisFinalVersion"]
+[submodule "Frontend-E-Airneis"]
+	path = Frontend
+	url = https://github.com/Tarikokc/E-Airneis-ReactV1.git
+	branch = main
+[submodule "Backend-E-Airneis"]
 	path = Backend
 	url = https://github.com/Tarikokc/E-Airneis.git
 	branch = main
